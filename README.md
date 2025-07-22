@@ -52,8 +52,7 @@ Run the Agent VM locally
 fab vm start
 Publish a model
 bash
-Copy
-Edit
+
 fab model publish models/my-model/1.0.0/model.yaml
 Contributing
 Follow the RFC and semantic versioning process in language-spec/rfcs/
@@ -66,7 +65,7 @@ License
 Apache 2.0
 
 Authors
-Fabric is developed by the Universal AI Foundation with contributors from the Fab Dev Network. Reach out via info@fab.ai.
+Fabric is developed by the Universal AI Foundation with contributors from the Fab Dev Network. Reach out via fabprojectV1@gmail.com.
 
 Related Projects
 fabric-models: Registry of public model definitions
